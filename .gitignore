@@ -3,3 +3,4 @@
 data/*
 ~data/.gitkeep
 venv
+hf_token
